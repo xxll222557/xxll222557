@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I thrive on spreading good vibes and building genu
 - 🔭 I’m currently working on exciting new projects in web development and machine learning.
 - 🌱 I’m constantly learning and expanding my knowledge in different programming languages and frameworks.
 - 👯 I’m looking to collaborate on Open-Source projects and Artificial Intelligence.
-- 🤔 I’m looking for help with @Kookiejarz
+- 🤔 I’m looking for help with [@Kookiejarz](https://github.com/Kookiejarz)
 - 📫 How to reach me: [Email](xxll222557@qq.com)
 
 
