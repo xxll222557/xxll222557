@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I thrive on spreading good vibes and building genu
 
 ## 📈 GitHub Stats
 
-![xxll222557's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxll222557&show_icons=true&theme=react)![](https://raw.githubusercontent.com/xxll222557/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![xxll222557's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxll222557&show_icons=true&theme=react)
+![](https://raw.githubusercontent.com/xxll222557/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 Thanks for stopping by! Have a nice day! 😊❤️
